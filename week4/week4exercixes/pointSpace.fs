@@ -1,4 +1,5 @@
-﻿module pointSpace
+﻿// Ember Baker
+module pointSpace
 
 //states are ordered pairs (x,y)
 

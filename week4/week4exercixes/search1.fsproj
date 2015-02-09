@@ -47,10 +47,9 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="sentence1.fs" />
     <None Include="App.config" />
-    <Compile Include="numberSpace.fs" />
     <Compile Include="pointSpace.fs" />
+    <Compile Include="numberSpace.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>
