@@ -7,6 +7,3 @@ module pointSpace
 let goNorth (x,y) = (x, y+1)
 let goEast (x,y) = (x+1, y)
 let goNorthEast (x,y) = (x+1, y+1)
-
-
-

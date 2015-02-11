@@ -1,0 +1,8 @@
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.exe.config
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.XML
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.pdb
