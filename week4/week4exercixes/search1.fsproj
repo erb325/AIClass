@@ -48,8 +48,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="pointSpace.fs" />
+    <Compile Include="treeSearch.fs" />
     <Compile Include="numberSpace.fs" />
+    <Compile Include="pointSpace.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>

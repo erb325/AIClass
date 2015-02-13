@@ -1,0 +1,8 @@
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\week4exercixes.exe.config
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\week4exercixes.XML
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\week4exercixes.exe
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\week4exercixes.pdb
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\FSharp.Core.dll
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\bin\Debug\FSharp.Core.xml
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\obj\Debug\week4exercixes.exe
+P:\Desktop\GitHub\AIClass\week4\week4exercixes\obj\Debug\week4exercixes.pdb
