@@ -10,12 +10,12 @@ let extend path actions =
 
 let rec bfs goal actions paths =
     match paths with
-    |[] -> []
+    | [] -> []
     | first::rest when first |> List.head = goal -> List.rev first
-    | first::rest -> (rest @(extend first actions)) |> bfs goal actions
+    | first::rest -> (rest @ (extend first actions)) |> bfs goal actions
 
 let rec dfs goal actions paths =
     match paths with
-    |[] -> []
+    | [] -> []
     | first::rest when first |> List.head = goal -> List.rev first
-    | first::rest -> (rest @(extend first actions)) |> dfs goal actions
+    | first::rest -> ((extend first actions) @ rest) |> dfs goal actions
