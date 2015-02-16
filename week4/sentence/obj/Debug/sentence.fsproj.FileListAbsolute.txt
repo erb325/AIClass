@@ -6,3 +6,11 @@
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\FSharp.Core.xml
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.exe
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.pdb
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.exe.config
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.XML
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.exe
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\sentence.pdb
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\FSharp.Core.dll
+P:\Desktop\GitHub\AIClass\week4\sentence\bin\Debug\FSharp.Core.xml
+P:\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.exe
+P:\Desktop\GitHub\AIClass\week4\sentence\obj\Debug\sentence.pdb
