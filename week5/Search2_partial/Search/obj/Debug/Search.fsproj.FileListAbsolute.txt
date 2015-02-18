@@ -62,3 +62,11 @@ L:\AI\FSharp\Search2ProblemNodeTreeLoopCombinerUcIdsAsts\Search\obj\Debug\Search
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Search2ProblemNodeTreeLoopCombinerUcIdsAsts\Search\bin\Debug\FSharp.Core.xml
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Search2ProblemNodeTreeLoopCombinerUcIdsAsts\Search\obj\Debug\Search.exe
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Search2ProblemNodeTreeLoopCombinerUcIdsAsts\Search\obj\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\Search.XML
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\obj\Debug\Search.exe
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\obj\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\Search.exe.config
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\Search.exe
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\FSharp.Core.dll
+P:\Desktop\GitHub\AIClass\week5\Search2_partial\Search\bin\Debug\FSharp.Core.xml

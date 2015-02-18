@@ -1,5 +1,6 @@
 ﻿module PointProblem
 open TreeSearch
+open System
 
 // states are (x,y) tuples
 let startState = (0,0)
@@ -21,7 +22,13 @@ let problem = { Start = startState;
                 Names = names;
                 Costs = costs; }
 
-let s = dfs problem
-printfn "%A" s
-printfn "%A" nodesExpanded
-System.Console.ReadLine() |> ignore
+let startTime= DateTime.Now
+let (satisfied, g) = bfs problem
+let finishTime = DateTime.Now
+let elapsed = finishTime - startTime 
+
+printfn "%A" g
+printfn "with %d steps" g.Depth
+printfn "%d nodes were expanded" nodesExpanded
+printfn "took time: %A" elapsed 
+Console.ReadLine() |> ignore

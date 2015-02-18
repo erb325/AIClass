@@ -1,5 +1,6 @@
 ﻿module NumberProblem
 open TreeSearch
+open System
 
 // states are integers
 //type State = int
@@ -22,5 +23,14 @@ let problem = { Start = startState;
                 Names = names;
                 Costs = costs; }
 
-printfn "%A" (dfs problem)
+let startTime= DateTime.Now
+let (satisfied, g) = ucs problem
+let finishTime = DateTime.Now
+let elapsed = finishTime - startTime 
+
+printfn "%A" g
+printfn "with %d steps" g.Depth
+printfn "%d nodes were expanded" nodesExpanded
+printfn "took time: %A" elapsed 
+
 let s = System.Console.ReadLine()

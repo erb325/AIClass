@@ -54,3 +54,11 @@ let treeSearch problem combiner =
 
 let dfs problem = treeSearch problem List.append
 
+let bfs problem = 
+    let prepend children old = old @ children
+    treeSearch problem prepend
+    //could also say: let bfs problem= treeSearch (fun l1 l2 -> l2 @ l1)
+
+let ucs problem = 
+    let ucCombine children old = ( children @ old ) |> List.sortBy (fun n -> n.Cost)
+    treeSearch problem ucCombine
