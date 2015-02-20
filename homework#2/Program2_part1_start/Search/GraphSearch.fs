@@ -1,11 +1,10 @@
-﻿// Ember Baker 
-// Tree Search
-
-module TreeSearch
+﻿module GraphSearch
 
 type Problem<'State> = 
     { Start : 'State; 
       IsGoal : 'State -> bool; 
+      SameState : 'State -> 'State -> bool
+      Heuristic : 'State -> double
       Actions : array<'State -> 'State>; 
       Names : array<string>
       Costs : array<double>}
@@ -20,6 +19,7 @@ type Node<'State> =
     }
 
 let mutable nodesExpanded = 0
+let mutable nodesInMemory = 0
 
 let expand problem node =
     nodesExpanded <- nodesExpanded + 1
@@ -34,7 +34,6 @@ let expand problem node =
     ]
 
 let treeSearch problem combiner =
-    nodesExpanded <- 0
     let start = { State = problem.Start;
                   Parent = problem.Start;
                   Action = -1;  // not a valid array index - no action
@@ -48,20 +47,38 @@ let treeSearch problem combiner =
 
     while (not (List.isEmpty frontier)) && (not goalSatisfied) do
         currentNode <- frontier.Head
-        printfn "%A" currentNode.State
+        //printfn "%A" currentNode.State  // can use for debugging but comment out when timing searches
         if problem.IsGoal currentNode.State then
             goalSatisfied <- true
         else
             frontier <-  combiner  (expand problem frontier.Head) frontier.Tail
+            if frontier.Length > nodesInMemory then
+                nodesInMemory <- frontier.Length
     (goalSatisfied, currentNode)
 
-let dfs problem = treeSearch problem List.append
+let dfs problem = 
+    nodesExpanded <- 0
+    nodesInMemory <- 0
+    treeSearch problem List.append
 
 let bfs problem = 
-    let prepend children old = old @ children
+    let prepend children old = old @ children 
+    nodesExpanded <- 0
+    nodesInMemory <- 0
     treeSearch problem prepend
-    //could also say: let bfs problem= treeSearch (fun l1 l2 -> l2 @ l1)
 
 let ucs problem = 
-    let ucCombine children old = ( children @ old ) |> List.sortBy (fun n -> n.Cost)
+    let ucCombine l1 l2 = (l1 @ l2) |> List.sortBy (fun n -> n.Cost )
+    nodesExpanded <- 0
+    nodesInMemory <- 0
     treeSearch problem ucCombine
+
+let gbfs problem =
+    nodesExpanded <- 0
+    nodesInMemory <- 0
+    let gbfCombine children old =
+        let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State} ]
+        (newChildren @ old) |> List.sortBy (fun n -> n.Value )
+    treeSearch problem gbfCombine
+
+

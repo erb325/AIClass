@@ -1,0 +1,144 @@
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2NodeLoopProblemNoPath - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoop - Copy\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner - Copy\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8Puzz - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPaths\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\obj\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\Search.exe.config
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\Search.XML
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\Search.pdb
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\obj\Debug\Search.exe
+C:\FSharp\MyAIExamples\Searches\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAsts - Copy\Search\obj\Debug\Search.pdb
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\Search.exe.config
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\Search.XML
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\Search.exe
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\Search.pdb
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\FSharp.Core.dll
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\bin\Debug\FSharp.Core.xml
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\obj\Debug\Search.exe
+G:\AI\FSharp\Search2ProblemNodeTreeLoopCombiner8PuzzPathsAstsRand\Search\obj\Debug\Search.pdb
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.exe.config
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.XML
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.exe
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.pdb
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\FSharp.Core.dll
+G:\AI\FSharp\Program2_Console_Tester\Search\bin\Debug\FSharp.Core.xml
+G:\AI\FSharp\Program2_Console_Tester\Search\obj\Debug\Search.exe
+G:\AI\FSharp\Program2_Console_Tester\Search\obj\Debug\Search.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.XML
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\obj\Debug\Search.exe
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\obj\Debug\Search.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.exe.config
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.exe
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\Search.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester\Search\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.exe.config
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.XML
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.exe
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\obj\Debug\Search.exe
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\FSharp\Program2_Console_Tester - Copy\Search\obj\Debug\Search.pdb
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.exe.config
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.XML
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.exe
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\Search.pdb
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\obj\Debug\Search.exe
+C:\Erik\FSharp\Program2_Console_Tester - Copy\Search\obj\Debug\Search.pdb
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\Search.XML
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\obj\Debug\Search.exe
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\obj\Debug\Search.pdb
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\Search.exe.config
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\Search.exe
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\Search.pdb
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\FSharp.Core.dll
+C:\Erik\FSharp\Program2_Console_Tester - Copy - Copy\Search\bin\Debug\FSharp.Core.xml
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\Search.exe.config
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\Search.XML
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\Search.exe
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\Search.pdb
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.dll
+C:\Erik\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml
+C:\Erik\FSharp\Program2_part1_start\Search\obj\Debug\Search.exe
+C:\Erik\FSharp\Program2_part1_start\Search\obj\Debug\Search.pdb
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\Search.exe.config
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\Search.XML
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\Search.exe
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\Search.pdb
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.dll
+L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml
+L:\AI\FSharp\Program2_part1_start\Search\obj\Debug\Search.exe
+L:\AI\FSharp\Program2_part1_start\Search\obj\Debug\Search.pdb
