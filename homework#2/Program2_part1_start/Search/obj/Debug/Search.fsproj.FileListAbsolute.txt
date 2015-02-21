@@ -142,3 +142,11 @@ L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.dll
 L:\AI\FSharp\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml
 L:\AI\FSharp\Program2_part1_start\Search\obj\Debug\Search.exe
 L:\AI\FSharp\Program2_part1_start\Search\obj\Debug\Search.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.exe.config
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.XML
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.pdb

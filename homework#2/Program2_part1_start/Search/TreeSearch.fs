@@ -81,4 +81,10 @@ let gbfs problem =
         (newChildren @ old) |> List.sortBy (fun n -> n.Value )
     treeSearch problem gbfCombine
 
-
+let aStar problem = 
+    nodesExpanded <- 0
+    nodesInMemory <- 0
+    let aCombine children old = 
+        let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State} ]
+        (newChildren @ old) |> List.sortBy (fun n -> n.Value + n.Cost) 
+    treeSearch problem aCombine

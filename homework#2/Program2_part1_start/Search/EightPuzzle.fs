@@ -116,5 +116,27 @@ printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""
 
+//do greedy best first search 
+let mutable startTime1 = System.DateTime.Now
+let mutable goalNode1 = gbfs problem |> snd
+let mutable finishTime1 = System.DateTime.Now
+let mutable elapsed1 = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by Greedy Best First Search" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
+//do astar
+let mutable startTime2 = System.DateTime.Now
+let mutable goalNode2 = aStar problem |> snd
+let mutable finishTime2 = System.DateTime.Now
+let mutable elapsed2 = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by A*" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
 System.Console.ReadLine() |> ignore
 

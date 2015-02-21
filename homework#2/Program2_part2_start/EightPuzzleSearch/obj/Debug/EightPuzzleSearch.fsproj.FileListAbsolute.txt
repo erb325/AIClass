@@ -19,3 +19,10 @@ Z:\Spring 2015\COMPSCI.323.01\Assignments\Assignment2\Program2_part2_start\Eight
 Z:\Spring 2015\COMPSCI.323.01\Assignments\Assignment2\Program2_part2_start\EightPuzzleSearch\bin\Debug\FSharp.Core.xml
 Z:\Spring 2015\COMPSCI.323.01\Assignments\Assignment2\Program2_part2_start\EightPuzzleSearch\obj\Debug\EightPuzzleSearch.dll
 Z:\Spring 2015\COMPSCI.323.01\Assignments\Assignment2\Program2_part2_start\EightPuzzleSearch\obj\Debug\EightPuzzleSearch.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\bin\Debug\EightPuzzleSearch.XML
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\bin\Debug\EightPuzzleSearch.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\bin\Debug\EightPuzzleSearch.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\obj\Debug\EightPuzzleSearch.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part2_start\EightPuzzleSearch\obj\Debug\EightPuzzleSearch.pdb
