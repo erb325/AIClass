@@ -1,4 +1,6 @@
-﻿module NumberProblem
+﻿//Ember Baker
+
+module NumberProblem
 open TreeSearch
 open System
 
@@ -18,11 +20,15 @@ let costs = [| 1.0; 0.5; 100.0 |]
 
 // heuristic evaluation of state's distance from goal - not too accurate, but admissible
 let heuristic state =  
-    (match goalState - state with
-                       | 0 -> 0.0
-                       | 1 -> 1.0
-                       | x when ((double x) / (double state)) = 1.0 -> 0.5
-                       | _ -> 500000.0) 
+    match state with
+    | x when x = goalState -> 0.0           //from here till the last comment is what we added in class
+    | x when 2*x = goalState -> 0.5
+    | x when x+1 = goalState -> 1.0
+    | x when 4*x = goalState -> 1.0
+    | x when 2*(x+1) = goalState -> 1.5
+    | x when 2*x+1 = goalState -> 1.5
+    | x when 8*x = goalState -> 1.5
+    | _ -> 2.0                              // end of added code from class 
 
 let sameState s1 s2 = s1 = s2
 
@@ -34,6 +40,17 @@ let problem = { Start = startState;
                 Costs = costs;
                 Heuristic = heuristic }
 
+//do bfs
+let mutable startTime = System.DateTime.Now
+let mutable goalNode = bfs problem |> snd
+let mutable finishTime = System.DateTime.Now
+let mutable elapsed = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by bfs" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
 // do depth-first search
 let mutable startTime = System.DateTime.Now
 let mutable goalNode = dfs problem |> snd
@@ -41,6 +58,17 @@ let mutable finishTime = System.DateTime.Now
 let mutable elapsed = (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by dfs" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
+//do UCS
+let mutable startTime = System.DateTime.Now
+let mutable goalNode = ucs problem |> snd
+let mutable finishTime = System.DateTime.Now
+let mutable elapsed = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by ucs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""

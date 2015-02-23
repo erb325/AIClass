@@ -150,3 +150,11 @@ L:\AI\FSharp\Program2_part1_start\Search\obj\Debug\Search.pdb
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.exe
 \\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.XML
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.exe
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\obj\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.exe.config
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.exe
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\Search.pdb
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\FSharp.Core.dll
+P:\Desktop\GitHub\AIClass\homework#2\Program2_part1_start\Search\bin\Debug\FSharp.Core.xml

@@ -88,3 +88,8 @@ let aStar problem =
         let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State} ]
         (newChildren @ old) |> List.sortBy (fun n -> n.Value + n.Cost) 
     treeSearch problem aCombine
+
+//let dls problem maxDepth = 
+ //   nodesExpanded <- 0
+ //   nodesInMemory <- 0
+ //   let dlsCombine children old = 

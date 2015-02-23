@@ -110,8 +110,35 @@ let goalNode = bfs problem |> snd
 let finishTime = System.DateTime.Now
 let elapsed = (finishTime - startTime).TotalSeconds
 
+//do bfs
+let mutable startTime = System.DateTime.Now
+let mutable goalNode = bfs problem |> snd
+let mutable finishTime = System.DateTime.Now
+let mutable elapsed = (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by bfs" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
+// do depth-first search
+let mutable startTime = System.DateTime.Now
+let mutable goalNode = dfs problem |> snd
+let mutable finishTime = System.DateTime.Now
+let mutable elapsed = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by dfs" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
+//do UCS
+let mutable startTime = System.DateTime.Now
+let mutable goalNode = ucs problem |> snd
+let mutable finishTime = System.DateTime.Now
+let mutable elapsed = (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by ucs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""
@@ -139,4 +166,5 @@ printfn "Took time: %A" elapsed
 printfn ""
 
 System.Console.ReadLine() |> ignore
+
 
