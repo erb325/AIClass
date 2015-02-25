@@ -50,8 +50,8 @@
     <None Include="App.config" />
     <Compile Include="TreeSearch.fs" />
     <Compile Include="GraphSearch.fs" />
-    <Compile Include="EightPuzzle.fs" />
     <Compile Include="NumberProblem.fs" />
+    <Compile Include="EightPuzzle.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">11</MinimumVisualStudioVersion>

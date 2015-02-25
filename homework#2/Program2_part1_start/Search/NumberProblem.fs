@@ -52,10 +52,10 @@ printfn "Took time: %A" elapsed
 printfn ""
 
 // do depth-first search
-let mutable startTime = System.DateTime.Now
-let mutable goalNode = dfs problem |> snd
-let mutable finishTime = System.DateTime.Now
-let mutable elapsed = (finishTime - startTime).TotalSeconds
+startTime <- System.DateTime.Now
+goalNode<-  dfs problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by dfs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
@@ -63,10 +63,10 @@ printfn "Took time: %A" elapsed
 printfn ""
 
 //do UCS
-let mutable startTime = System.DateTime.Now
-let mutable goalNode = ucs problem |> snd
-let mutable finishTime = System.DateTime.Now
-let mutable elapsed = (finishTime - startTime).TotalSeconds
+startTime <- System.DateTime.Now
+goalNode<- ucs problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by ucs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
@@ -74,10 +74,10 @@ printfn "Took time: %A" elapsed
 printfn ""
 
 //do greedy best first search 
-let mutable startTime1 = System.DateTime.Now
-let mutable goalNode1 = gbfs problem |> snd
-let mutable finishTime1 = System.DateTime.Now
-let mutable elapsed1 = (finishTime - startTime).TotalSeconds
+startTime<- System.DateTime.Now
+goalNode<-  gbfs problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by Greedy Best First Search" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
@@ -85,12 +85,23 @@ printfn "Took time: %A" elapsed
 printfn ""
 
 //do astar
-let mutable startTime2 = System.DateTime.Now
-let mutable goalNode2 = aStar problem |> snd
-let mutable finishTime2 = System.DateTime.Now
-let mutable elapsed2 = (finishTime - startTime).TotalSeconds
+startTime <- System.DateTime.Now
+goalNode<-  aStar problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<- (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by A*" nodesExpanded
+printfn "Max frontier size = %d" nodesInMemory
+printfn "Took time: %A" elapsed
+printfn ""
+
+// do iterative deeping search
+startTime <- System.DateTime.Now
+goalNode<-  ids problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
+printfn "%A" goalNode
+printfn "%d nodes were expanded by ids" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""

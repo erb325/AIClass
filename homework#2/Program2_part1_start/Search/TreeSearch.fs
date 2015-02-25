@@ -85,11 +85,22 @@ let aStar problem =
     nodesExpanded <- 0
     nodesInMemory <- 0
     let aCombine children old = 
-        let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State} ]
-        (newChildren @ old) |> List.sortBy (fun n -> n.Value + n.Cost) 
+        let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State + n.Cost} ]
+        (newChildren @ old) |> List.sortBy (fun n -> n.Value ) 
     treeSearch problem aCombine
 
-//let dls problem maxDepth = 
- //   nodesExpanded <- 0
- //   nodesInMemory <- 0
- //   let dlsCombine children old = 
+let dls problem maxDepth = 
+    nodesExpanded <- 0
+    nodesInMemory <- 0
+    let dlsCombine children old = 
+        (children @ old) |> List.filter(fun n -> n.Depth <= maxDepth)
+    treeSearch problem dlsCombine
+    
+let ids problem = 
+     let mutable limit = 1
+     let mutable solve = dls problem limit
+     while not (fst solve) do
+        limit <- limit + 1
+        solve <- dls problem limit
+     dls problem limit 
+         

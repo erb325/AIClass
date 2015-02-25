@@ -1,5 +1,7 @@
-﻿module EightPuzzle
-open TreeSearch
+﻿
+
+module EightPuzzle
+open GraphSearch
 open System
 open System.IO
 
@@ -93,7 +95,7 @@ let h1 (state:State) =
 
                        
 let startState = Array2D.zeroCreate<int> 3 3
-load2DarrayFromFile "start6.txt" startState
+load2DarrayFromFile "start12.txt" startState
 
 
 let problem = { Start = startState;
@@ -105,65 +107,33 @@ let problem = { Start = startState;
                 Costs = costs }
 
 
-let startTime = System.DateTime.Now
-let goalNode = bfs problem |> snd
-let finishTime = System.DateTime.Now
-let elapsed = (finishTime - startTime).TotalSeconds
-
-//do bfs
 let mutable startTime = System.DateTime.Now
 let mutable goalNode = bfs problem |> snd
 let mutable finishTime = System.DateTime.Now
 let mutable elapsed = (finishTime - startTime).TotalSeconds
+
+//do bfs
+startTime <- System.DateTime.Now
+goalNode<-  bfs problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
 printfn "%d nodes were expanded by bfs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""
 
-// do depth-first search
-let mutable startTime = System.DateTime.Now
-let mutable goalNode = dfs problem |> snd
-let mutable finishTime = System.DateTime.Now
-let mutable elapsed = (finishTime - startTime).TotalSeconds
-printfn "%A" goalNode
-printfn "%d nodes were expanded by dfs" nodesExpanded
-printfn "Max frontier size = %d" nodesInMemory
-printfn "Took time: %A" elapsed
-printfn ""
-
-//do UCS
-let mutable startTime = System.DateTime.Now
-let mutable goalNode = ucs problem |> snd
-let mutable finishTime = System.DateTime.Now
-let mutable elapsed = (finishTime - startTime).TotalSeconds
-printfn "%A" goalNode
-printfn "%d nodes were expanded by ucs" nodesExpanded
-printfn "Max frontier size = %d" nodesInMemory
-printfn "Took time: %A" elapsed
-printfn ""
-
-//do greedy best first search 
-let mutable startTime1 = System.DateTime.Now
-let mutable goalNode1 = gbfs problem |> snd
-let mutable finishTime1 = System.DateTime.Now
-let mutable elapsed1 = (finishTime - startTime).TotalSeconds
-printfn "%A" goalNode
-printfn "%d nodes were expanded by Greedy Best First Search" nodesExpanded
-printfn "Max frontier size = %d" nodesInMemory
-printfn "Took time: %A" elapsed
-printfn ""
-
 //do astar
-let mutable startTime2 = System.DateTime.Now
-let mutable goalNode2 = aStar problem |> snd
-let mutable finishTime2 = System.DateTime.Now
-let mutable elapsed2 = (finishTime - startTime).TotalSeconds
+startTime <- System.DateTime.Now
+goalNode<-  aStar problem |> snd
+finishTime <- System.DateTime.Now
+elapsed<-  (finishTime - startTime).TotalSeconds
 printfn "%A" goalNode
-printfn "%d nodes were expanded by A*" nodesExpanded
+printfn "%d nodes were expanded by a*" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""
+
 
 System.Console.ReadLine() |> ignore
 

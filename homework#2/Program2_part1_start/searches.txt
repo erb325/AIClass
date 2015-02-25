@@ -1,0 +1,60 @@
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 8;
+ Cost = 106.0;
+ Value = 0.0;}
+3796 nodes were expanded by bfs
+Max frontier size = 7593
+Took time: 0.4056078
+
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 126;
+ Cost = 126.0;
+ Value = 0.0;}
+126 nodes were expanded by dfs
+Max frontier size = 253
+Took time: 0.0
+
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 12;
+ Cost = 9.0;
+ Value = 0.0;}
+10944 nodes were expanded by ucs
+Max frontier size = 21889
+Took time: 22.4956326
+
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 64;
+ Cost = 63.5;
+ Value = 0.0;}
+64 nodes were expanded by Greedy Best First Search
+Max frontier size = 129
+Took time: 0.0156003
+
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 12;
+ Cost = 9.0;
+ Value = 0.0;}
+1364 nodes were expanded by A*
+Max frontier size = 2729
+Took time: 0.2964057
+
+{State = 127;
+ Parent = 126;
+ Action = 0;
+ Depth = 8;
+ Cost = 106.0;
+ Value = 0.0;}
+780 nodes were expanded by ids
+Max frontier size = 17
+Took time: 0.0
+
