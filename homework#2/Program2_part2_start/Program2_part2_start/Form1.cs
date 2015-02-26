@@ -161,7 +161,7 @@ namespace EightPuzzle
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var result = EightPuzzleSearch.gbfs(EightPuzzleSearch.theproblem);
+            var result = EightPuzzleSearch.aStar(EightPuzzleSearch.theproblem);
             moves = EightPuzzleSearch.extractSolution(result);
 
             for (int row = 0; row < 3; row++)

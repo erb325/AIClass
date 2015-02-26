@@ -1,4 +1,4 @@
-﻿
+﻿//Ember Baker
 
 module EightPuzzle
 open GraphSearch
@@ -90,12 +90,30 @@ let h1 (state:State) =
     for row in 0..2 do
         for col in 0..2 do
             if state.[row,col] <> goalState.[row,col] then
-                differences <- differences + 1
+                differences <- differences + 1      
     differences |> double
 
+let h2 (state:State) = 
+    let mutable differences = 0
+    let value = 0
+    for row in 0..2 do
+        for col in 0..2 do
+            if state.[row,col] <> goalState.[row,col] then
+                match state.[row, col] with 
+                | 1 -> (differences <- differences + abs(row-0) + abs(col-0))
+                | 2 -> (differences <- differences + abs(row-0) + abs(col-1))
+                | 3 -> (differences <- differences + abs(row-0) + abs(col-2))
+                | 4 -> (differences <- differences + abs(row-1) + abs(col-0))
+                | 5 -> (differences <- differences + abs(row-1) + abs(col-1))
+                | 6 -> (differences <- differences + abs(row-1) + abs(col-2))
+                | 7 -> (differences <- differences + abs(row-2) + abs(col-0))
+                | 8 -> (differences <- differences + abs(row-2) + abs(col-1))
+                | 0 -> (differences <- differences + abs(row-2) + abs(col-2))
+                
+    differences |> double
                        
 let startState = Array2D.zeroCreate<int> 3 3
-load2DarrayFromFile "start12.txt" startState
+load2DarrayFromFile "start20.txt" startState
 
 
 let problem = { Start = startState;
@@ -108,11 +126,11 @@ let problem = { Start = startState;
 
 
 let mutable startTime = System.DateTime.Now
-let mutable goalNode = bfs problem |> snd
+let mutable goalNode = aStar problem |> snd
 let mutable finishTime = System.DateTime.Now
 let mutable elapsed = (finishTime - startTime).TotalSeconds
 
-//do bfs
+(*//do bfs
 startTime <- System.DateTime.Now
 goalNode<-  bfs problem |> snd
 finishTime <- System.DateTime.Now
@@ -121,7 +139,7 @@ printfn "%A" goalNode
 printfn "%d nodes were expanded by bfs" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
-printfn ""
+printfn ""*)
 
 //do astar
 startTime <- System.DateTime.Now
@@ -133,6 +151,7 @@ printfn "%d nodes were expanded by a*" nodesExpanded
 printfn "Max frontier size = %d" nodesInMemory
 printfn "Took time: %A" elapsed
 printfn ""
+
 
 
 System.Console.ReadLine() |> ignore

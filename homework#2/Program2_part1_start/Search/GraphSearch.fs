@@ -21,16 +21,18 @@ type Node<'State> =
 let mutable nodesExpanded = 0
 let mutable nodesInMemory = 0
 
-let expand problem node =
+let expand problem node expanded =        
     nodesExpanded <- nodesExpanded + 1
     [ for i = 0 to problem.Actions.Length-1 do 
         let action = problem.Actions.[i]
-        yield { State = action node.State;
-                Parent = node.State;
-                Action = i;
-                Depth = node.Depth + 1
-                Cost = node.Cost + problem.Costs.[i];
-                Value = 0.0 }
+        let temp = action node.State
+        if(List.tryFind (fun n -> n = temp) expanded) = None then 
+            yield { State = temp;
+                    Parent = node.State;
+                    Action = i;
+                    Depth = node.Depth + 1
+                    Cost = node.Cost + problem.Costs.[i];
+                    Value = 0.0 }
     ]
 
 let treeSearch problem combiner =
@@ -47,11 +49,12 @@ let treeSearch problem combiner =
 
     while (not (List.isEmpty frontier)) && (not goalSatisfied) do
         currentNode <- frontier.Head
+        expanded <- expanded @ [currentNode.State]
         //printfn "%A" currentNode.State  // can use for debugging but comment out when timing searches
         if problem.IsGoal currentNode.State then
             goalSatisfied <- true
         else
-            frontier <-  combiner  (expand problem frontier.Head) frontier.Tail
+            frontier <-  combiner  (expand problem frontier.Head expanded) frontier.Tail
             if frontier.Length > nodesInMemory then
                 nodesInMemory <- frontier.Length
     (goalSatisfied, currentNode)

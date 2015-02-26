@@ -89,8 +89,12 @@
             (newChildren @ old) |> List.sortBy (fun n -> n.Value )
         graphSearch problem gbfCombine
 
-    
-   
+    let aStar problem = 
+        let aCombine children old = 
+            let newChildren = [ for n in children -> { n with Value = problem.Heuristic n.State + n.Cost} ]
+            (newChildren @ old) |> List.sortBy (fun n -> n.Value ) 
+        graphSearch problem aCombine
+ 
     // states are (3x3) 2D arrays of integer
     type State = int [,]
 
@@ -174,6 +178,24 @@
                     differences <- differences + 1
         differences |> double
 
+    let h2 (state:State) = 
+            let mutable differences = 0
+            let value = 0
+            for row in 0..2 do
+                for col in 0..2 do
+                    if state.[row,col] <> goalState.[row,col] then
+                        match state.[row, col] with 
+                        | 1 -> (differences <- differences + abs(row-0) + abs(col-0))
+                        | 2 -> (differences <- differences + abs(row-0) + abs(col-1))
+                        | 3 -> (differences <- differences + abs(row-0) + abs(col-2))
+                        | 4 -> (differences <- differences + abs(row-1) + abs(col-0))
+                        | 5 -> (differences <- differences + abs(row-1) + abs(col-1))
+                        | 6 -> (differences <- differences + abs(row-1) + abs(col-2))
+                        | 7 -> (differences <- differences + abs(row-2) + abs(col-0))
+                        | 8 -> (differences <- differences + abs(row-2) + abs(col-1))
+                        | 0 -> (differences <- differences + abs(row-2) + abs(col-2))
+                
+            differences |> double
     
     
     let ss =        [| [| 0; 7; 8 |]; 
@@ -197,7 +219,7 @@
     
     let theproblem = {  Start = startState;
                         IsGoal = goalTest;
-                        Heuristic = h1;
+                        Heuristic = h2;
                         SameState = sameState;
                         Actions = actions;
                         Names = names;
