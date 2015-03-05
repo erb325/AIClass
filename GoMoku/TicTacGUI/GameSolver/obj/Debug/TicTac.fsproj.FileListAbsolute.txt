@@ -1,0 +1,28 @@
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Debug\GameSolver.XML
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Debug\FSharp.Core.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Debug\FSharp.Core.xml
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\obj\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\obj\Debug\GameSolver.pdb
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.XML
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.dll
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.pdb
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.dll
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.xml
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.dll
+Z:\Spring 2015\COMPSCI.323.01\Examples\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\bin\Debug\GameSolver.XML
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.dll
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.xml
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\obj\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.XML
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.dll
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\GameSolver.pdb
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.dll
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.xml
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.dll
+\\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb

@@ -1,0 +1,7 @@
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Release\GameSolver.XML
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Release\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Release\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Release\FSharp.Core.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\bin\Release\FSharp.Core.xml
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\obj\Release\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GameSolver\obj\Release\GameSolver.pdb

@@ -1,0 +1,12 @@
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Release\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Release\GraphicalGameApp.pdb
