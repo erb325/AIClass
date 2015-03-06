@@ -26,3 +26,10 @@ C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.xml
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.dll
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\bin\Debug\GameSolver.XML
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\bin\Debug\GameSolver.dll
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\bin\Debug\GameSolver.pdb
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.dll
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\bin\Debug\FSharp.Core.xml
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\obj\Debug\GameSolver.dll
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GameSolver\obj\Debug\GameSolver.pdb

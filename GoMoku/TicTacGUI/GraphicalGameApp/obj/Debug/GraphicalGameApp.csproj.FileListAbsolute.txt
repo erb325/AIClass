@@ -77,3 +77,15 @@ C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGam
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
 \\buad.bloomu.edu\data\UsersVWXYZ\ewynters\Desktop\Games\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.dll
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.pdb
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.xml
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+P:\Desktop\GitHub\AIClass\GoMoku\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache

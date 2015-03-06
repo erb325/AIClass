@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Ember Baker
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,6 +15,7 @@ namespace TicTacApp
     {
         TicTac.MatrixGame game;
         bool gameOver;
+        int ply = 1;
        
         public Form1()
         {
@@ -43,18 +46,18 @@ namespace TicTacApp
         private void canvas_Paint(object sender, PaintEventArgs e)
         {
             var board = game.CurrentState;
-            for (int row = 0; row < 3; row++)
+            for (int row = 0; row < 19; row++)
             {
                 if (row > 0)
-                    e.Graphics.DrawLine(Pens.Black, 0, row*100, 300, row*100);
-                for (int col = 0; col < 3; col++)
+                    e.Graphics.DrawLine(Pens.Black, 0, row*40, 760, row*40);
+                for (int col = 0; col < 19; col++)
                 {
                     if (col > 0)
-                        e.Graphics.DrawLine(Pens.Black, col * 100, 0, col * 100, 300);
-                    if (board[row, col] == 1)
-                        e.Graphics.DrawString("X", canvas.Font, Brushes.Red, col * 100, row * 100);
-                    else if (board[row, col] == -1)
-                        e.Graphics.DrawString("O", canvas.Font, Brushes.Blue, col * 100, row * 100);
+                        e.Graphics.DrawLine(Pens.Black, col * 40, 0, col * 40, 760);
+                   if (board[row, col] == 1)
+                       e.Graphics.FillEllipse(Brushes.Black, col * 40, row * 40, 40, 40);
+                   else if (board[row, col] == -1)
+                       e.Graphics.FillEllipse(Brushes.White, col * 40, row * 40, 40, 40); 
 
                 }
             }
@@ -66,8 +69,8 @@ namespace TicTacApp
             int x = e.X;
             int y = e.Y;
 
-            int row = y / 100;
-            int col = x / 100;
+            int row = y / 40;
+            int col = x / 40;
 
             if (!gameOver)
             {
@@ -93,6 +96,15 @@ namespace TicTacApp
             txtMessage.Text = "Your turn; click on a square.";
             gameOver = false;
             Refresh();
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (comboBox1.SelectedIndex == 0)
+                ply = 1;
+            else
+                ply = 2;
+            
         }
     }
 }

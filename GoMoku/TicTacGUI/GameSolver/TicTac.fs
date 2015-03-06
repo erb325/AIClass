@@ -73,13 +73,13 @@ let sameState (s1:State) (s2:State) =
     same
 
 let copyState (s:State) = 
-    let newState = Array2D.zeroCreate<int> 3 3
+    let newState = Array2D.zeroCreate<int> 19 19
     for row in 0..2 do
         for col in 0..2 do
             newState.[row,col] <- s.[row,col]
     newState
 
-let start = Array2D.zeroCreate<int> 3 3
+let start = Array2D.zeroCreate<int> 19 19
 
 // helper function used by gameOver
 // returns whether the game is such that player has already won
