@@ -107,7 +107,7 @@ namespace TicTacApp
 
                 if (!gameOver)
                 {            
-                    game = TicTac.chooseMove(game);
+                    game = TicTac.chooseMove(game, ply);
                     txtMessage.Text = "Your turn; click on a square.";
                     update();
                 }
