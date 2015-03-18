@@ -146,10 +146,10 @@ let wonBy player (state:State) =  // use 1 for max player, -1 for min player
 
     // check for 5 in a row, diagonally top-right to bot-left  
     playerCount <- 0
-    for row in 4..18 do 
+    for row in 0..18 do 
         i <- 0
-        for col in 4..(18-row) do
-            if state.[row-i, col] = player then
+        for col in 0..(18-row) do
+            if state.[(18-(row+i)), col] = player then
                playerCount <- playerCount + 1
             else playerCount <- 0
             i <- i + 1
@@ -159,10 +159,10 @@ let wonBy player (state:State) =  // use 1 for max player, -1 for min player
             isWon <- true
 
     playerCount <- 0
-    for col in 4..18 do 
+    for col in 0..18 do 
         i <- 0
         for row in 0..(18-col) do
-            if state.[row, col-i] = player then
+            if state.[(18-row), col+i] = player then
                playerCount <- playerCount + 1
             else playerCount <- 0
             i <- i + 1
