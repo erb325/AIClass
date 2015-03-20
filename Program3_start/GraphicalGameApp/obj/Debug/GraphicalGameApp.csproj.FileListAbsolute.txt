@@ -1,0 +1,127 @@
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\GraphicalGameApp - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Graphical21Console - Copy\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Game21FlagsGUI - Copy\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUI\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+J:\AI\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+J:\AI\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+J:\AI\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\Games\TicTacGUIGoMods\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.dll
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.pdb
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.xml
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+C:\Erik\CS323\S15\Games\FSharp\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+Z:\Spring 2015\COMPSCI.323.01\Assignments\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+Z:\Spring 2015\COMPSCI.323.01\Assignments\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+Z:\Spring 2015\COMPSCI.323.01\Assignments\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.xml
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.dll
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.pdb
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\bin\Debug\GameSolver.xml
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csprojResolveAssemblyReference.cache
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\TicTacApp.Form1.resources
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.Properties.Resources.resources
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\GitHub\AIClass\GoMoku\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.csproj.GenerateResource.Cache
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Ember Baker\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Ember Baker\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+\\buad.bloomu.edu\student\usersABC\erb39405\Desktop\Ember Baker\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb
+P:\Desktop\GitHub\AIClass\Program3_start\GraphicalGameApp\bin\Debug\GraphicalGameApp.exe.config
+P:\Desktop\GitHub\AIClass\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.exe
+P:\Desktop\GitHub\AIClass\Program3_start\GraphicalGameApp\obj\Debug\GraphicalGameApp.pdb

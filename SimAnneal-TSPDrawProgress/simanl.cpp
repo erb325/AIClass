@@ -1,3 +1,4 @@
+//Ember Baker
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -11,9 +12,9 @@ using namespace std;
 
 #define MAX_CITIES	50
 #define CITY_LIMIT	500
-#define ALPHA 		((double)0.999)
-#define NUM_ITERATIONS	200
-#define INITIAL_TEMP	((double)100.0)
+#define ALPHA 		((double)0.9999)
+#define NUM_ITERATIONS	100
+#define INITIAL_TEMP	((double)200.0)
 
 typedef struct {
 	int x, y;
