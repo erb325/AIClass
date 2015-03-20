@@ -1,0 +1,17 @@
+﻿Build started 3/20/2015 1:21:59 PM.
+     1>Project "P:\Desktop\GitHub\AIClass\exercises\GeneticTSP2MutXovr4RoundDrawProgress\genetic.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt genetic2.cpp
+         genetic2.cpp
+     1>genetic2.cpp(126): warning C4101: 'save' : unreferenced local variable
+     1>genetic2.cpp(242): warning C4101: 'crossover' : unreferenced local variable
+     1>genetic2.cpp(240): warning C4101: 'j' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Release\genetic.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Release\genetic.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Release\genetic.lib" /MACHINE:X86 /SAFESEH Release\genetic2.obj
+     1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+         genetic.vcxproj -> P:\Desktop\GitHub\AIClass\exercises\GeneticTSP2MutXovr4RoundDrawProgress\Release\genetic.exe
+     1>Done Building Project "P:\Desktop\GitHub\AIClass\exercises\GeneticTSP2MutXovr4RoundDrawProgress\genetic.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
