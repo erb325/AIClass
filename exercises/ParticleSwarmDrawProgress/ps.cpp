@@ -1,3 +1,5 @@
+//Ember Baker
+
 #include <stdio.h>
 #include <math.h>
 #include <iostream>
@@ -20,17 +22,18 @@ typedef struct {
 } particle_t;
 
 
-#define MAX_PARTICLES		100000
+#define MAX_PARTICLES		20
 
-#define MAX_ITERATIONS		300
+#define MAX_ITERATIONS		50
 
 
 particle_t particles[MAX_PARTICLES];
 particle_t gbest;
 
-double c1 = (double)0.8
-double c2 = (double)0.8;
-double dt = (double)0.05;
+double c1 = (double)2.05;
+double c2 = (double)2.05;
+double dt = (double)1;
+double w = .729;
 
 
 double compute_fitness( vec_t *vec_p )
@@ -88,18 +91,18 @@ void update_particle( particle_t *particle_p )
 
   /* Update the velocity vector (Equation 9.7) */
   particle_p->velocity.x =
-	  particle_p->velocity.x +
+	  w*(particle_p->velocity.x +
 	  c1 * RANDOM() *
 	  (gbest.coord.x - particle_p->coord.x) +
 	  c2 * RANDOM() *
-	  (particle_p->best_coord.x - particle_p->coord.x);
+	  (particle_p->best_coord.x - particle_p->coord.x));
 
   particle_p->velocity.y =
-	  particle_p->velocity.y +
+	  w*(particle_p->velocity.y +
 	  c1 * RANDOM() *
 	  (gbest.coord.y - particle_p->coord.y) +
 	  c2 * RANDOM() *
-	  (particle_p->best_coord.y - particle_p->coord.y);
+	  (particle_p->best_coord.y - particle_p->coord.y));
 
   return;
 }
