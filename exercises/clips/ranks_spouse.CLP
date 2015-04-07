@@ -36,5 +36,31 @@
 (defrule print-spouses
 	(spouses ?w ?m)
 =>
-	(printout t ?w " is married to " ?m crlf))
+	(printout t ?w " is married to " ?m crlf)
+	(printout t ?m " is married to " ?w crlf))
 
+(deftemplate is-a-higher-rank "specifies that a rank is higher than another"
+	(slot higher)
+	(slot lower))
+
+(defrule higher-ranks-rule "generates all facts about order 'recursivly' "
+	(or (next-higher-rank (above ?lower) (is ?higher))	; basecase for this rule
+		(and (is-a-higher-rank (lower ?lower) (higher ?high))
+			(next-higher-rank (above ?high) (is ?higher))))
+=>
+	(assert (is-a-higher-rank (lower ?lower) (higher ?higher))))
+
+(defrule outranks-rule
+	(has-rank (person ?p1) (rank ?r1))
+	(has-rank (person ?p2) (rank ?r2))
+	(is-a-higher-rank (higher ?r1) (lower ?r2)) 
+=> 
+	(printout t ?p1 " outranks " ?p2 crlf))
+
+(defrule top-dog "who outranks everyone"
+	(has-rank (person ?p1) (rank ?r1))
+	(forall (has-rank (person ?p2&~?p1) (rank ?r2))
+		(is-a-higher-rank (higher ?r1) (lower ?r2)))
+=>
+	(printout t ?p1 " outranks every other known person " crlf))
+	
