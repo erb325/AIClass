@@ -216,7 +216,7 @@
 (defrule patricia-match "married and rich"
 	(Person (gender male) (spouse ~nil) (name ?n &~Patricia) (income high))
 => 
-	(assert (match (person Particia) (match ?n))))
+	(assert (match (person Patricia) (match ?n))))
 
 (defrule jenn-match "single and handsome OR married and rich"
 	(or (Person (name ?n &~Jennifer) (spouse nil) (appearance handsome)(gender male))

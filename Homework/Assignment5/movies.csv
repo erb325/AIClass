@@ -1,0 +1,101 @@
+movie_ID,movie_Title,movie_Year,movie_Director,movie_DirectorID,bestPicture,AFIRank,studio
+1382,Citizen Kane ,1941,Orson Welles,1,Y,1,RKO
+1383,Casablanca ,1942,Michael Curtiz,2,Y,2,Warner Bros.
+1481,Yankee Doodle Dandy ,1942,Michael Curtiz,2, ,100,Warner Bros.
+1384,"Godfather, The ",1972,Francis Ford Coppola,3,Y,3,Paramount
+1409,Apocalypse Now ,1979,Francis Ford Coppola,3, ,28,Zoetrope
+1414,"Godfather: Part II, The ",1974,Francis Ford Coppola,3,Y,32,Paramount
+1385,Gone with the Wind ,1939,Victor Flamingo,4,Y,4,MGM
+1387,"Wizard of Oz, The ",1939,Victor Fleming,4, ,6,MGM
+1386,Lawrence of Arabia ,1962,David Lean,5,Y,5,Columbia
+1394,"Bridge on the River Kwai, The ",1957,David Lean,5,Y,13,Columbia
+1421,Doctor Zhivago ,1965,David Lean,5, ,39,MGM
+1388,"Graduate, The ",1967,Mike Nichols,6, ,7,Embassy
+1389,On the Waterfront ,1954,Elia Kazan,7,Y,8,Columbia
+1427,"Streetcar Named Desire, A ",1951,Elia Kazan,7, ,45,Warner Bros.
+1390,Schindler's List ,1993,Steven Spielberg,8,Y,9,Universal
+1406,E.T. the Extra-Terrestrial ,1982,Steven Spielberg,8, ,25,Universal
+1429,Jaws ,1975,Steven Spielberg,8, ,48,Universal
+1441,Raiders of the Lost Ark ,1981,Steven Spielberg,8, ,60,Paramount
+1445,Close Encounters of the Third Kind ,1977,Steven Spielberg,8, ,64,Columbia
+1391,Singin' in the Rain ,1952,Stanley Donen,9, ,10,MGM
+1392,It's a Wonderful Life ,1946,Frank Capra,10, ,11,RKO
+1410,Mr. Smith Goes to Washington ,1939,Frank Capra,10, ,29,Columbia
+1417,It Happened One Night ,1934,Frank Capra,10,Y,35,Columbia
+1393,Sunset Blvd. ,1950,Billy Wilder,11, ,12,Paramount
+1395,Some Like It Hot ,1959,Billy Wilder,11, ,14,Ashton/Mirisch
+1420,Double Indemnity ,1944,Billy Wilder,11, ,38,Parmount
+1474,The Apartment ,1960,Billy Wilder,11,Y,93,United Artists
+1396,Star Wars ,1977,George Lucas,12, ,15,20th Century Fox
+1458,American Graffiti ,1973,George Lucas,12, ,77,Universal
+1397,All About Eve ,1950,Joseph L. Mankiewicz,13,Y,16,20th Century Fox
+1398,"African Queen, The ",1951,John Huston,14, ,17,United Artists
+1404,"Maltese Falcon, The ",1941,John Huston,14, ,23,Warner Bros.
+1411,"Treasure of the Sierra Madre, The ",1948,John Huston,14, ,30,Warner Bros.
+1399,Psycho ,1960,Alfred Hitchcock,15, ,18,Paramount
+1422,North by Northwest ,1959,Alfred Hitchcock,15, ,40,MGM
+1424,Rear Window ,1954,Alfred Hitchcock,15, ,42,Paramount
+1442,Vertigo ,1958,Alfred Hitchcock,15, ,61,Paramount
+1400,Chinatown ,1974,Roman Polanski,16, ,19,Paramount
+1401,One Flew Over the Cuckoo's Nest ,1975,Milos Forman,17,Y,20,United Artists
+1434,Amadeus ,1984,Milos Forman,17,Y,53,Orion
+1402,"Grapes of Wrath, The ",1940,John Ford,18, ,21,20th Century Fox
+1444,Stagecoach ,1939,John Ford,18, ,63,Walter Wanger/United Artists
+1477,The Searchers ,1956,John Ford,18, ,96,Warner Bros.
+1403,2001: A Space Odyssey ,1968,Stanley Kubrick,19, ,22,MGM
+1407,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,1964,Stanley Kubrick,19, ,26,Columbia
+1412,"Clockwork Orange, A ",1971,Stanley Kubrick,19, ,46,Warner Bros.
+1405,Raging Bull ,1980,Martin Scorsese,20, ,24,United Artists
+1428,Taxi Driver ,1976,Martin Scorsese,20, ,47,Columbia
+1475,Goodfellas ,1990,Martin Scorsese,20, ,94,Warner Bros.
+1408,Bonnie and Clyde ,1967,Arthur Penn,21, ,27,Warner Bros.-Seven Arts
+1413,Annie Hall ,1977,Woody Allen,22,Y,31,United Artists
+1415,High Noon ,1952,Fred Zinnemann,23, ,33,United Artists
+1433,From Here to Eternity ,1953,Fred Zinnemann,23, ,52,Columbia
+1416,To Kill a Mockingbird ,1962,Robert Mulligan,24, ,34,Universal
+1418,Midnight Cowboy ,1969,John Schlesinger,25, ,36,United Artists
+1419,"Best Years of Our Lives, The ",1946,William Wyler,26,Y,37,"Goldwyn,RKO"
+1453,Ben-Hur ,1959,William Wyler,26,Y,72,MGM
+1454,Wuthering Heights ,1939,William Wyler,26, ,73,United Artists
+1423,West Side Story ,1961,Jerome Robbins,27, ,41,United Artists
+1426,"Birth of a Nation, The ",1915,D.W. Griffith,28, ,44,Epoch Producing Co.
+1431,Butch Cassidy and the Sundance Kid ,1969,George Roy Hill,29, ,50,20th Century Fox
+1432,"Philadelphia Story, The ",1940,George Cukor,30, ,51,MGM
+1472,My Fair Lady ,1964,George Cukor,30,Y,91,Warner Bros.
+1435,All Quiet on the Western Front ,1930,Lewis Milestone,31,Y,54,Universal
+1436,"Sound of Music, The ",1965,Robert Wise,32, ,55,20th Century Fox
+1437,MASH ,1970,Robert Altman,33, ,56,Aspen/20th Century Fox
+1438,"Third Man, The ",1949,Carol Reed,34, ,57,Korda/Selznick Releasing Org.
+1439,Fantasia ,1940,James Algar,35, ,58,Walt Disney/RKO
+1440,Rebel Without a Cause ,1955,Nicholas Ray,36, ,59,Warner Bros.
+1443,Tootsie ,1982,Sydney Pollack,37, ,62,Columbia
+1446,"Silence of the Lambs, The ",1991,Jonathan Demme,38,Y,65,Orion
+1447,Network ,1976,Sidney Lumet,39, ,66,MGM/United Artists
+1448,The Manchurian Candidate ,1962,John Frankenheimer,40, ,67,United Artists
+1449,An American in Paris ,1951,Vincente Minnelli,41,Y,68,MGM
+1450,Shane ,1953,George Stevens,42, ,69,Paramount
+1463,Giant ,1956,George Stevens,42, ,82,Warner Bros.
+1473,A Place in the Sun ,1951,George Stevens,42, ,92,Paramount
+1451,The French Connection ,1971,William Friedkin,43,Y,70,20th Century Fox
+1452,Forrest Gump ,1994,Robert Zemeckis,44, ,71,Paramount
+1455,The Gold Rush ,1925,Charles Chaplin,45, ,74,United Artists
+1457,City Lights ,1931,Charles Chaplin,45, ,76,Chaplin/United Artists
+1462,Modern Times ,1936,Charles Chaplin,45, ,81,United Artists
+1456,Dances with Wolves ,1990,Kevin Costner,46,Y,75,Orion
+1460,The Deer Hunter ,1978,Michael Cimino,48,Y,79,Warner Bros.
+1461,The Wild Bunch ,1969,Sam Peckinpah,49, ,80,Warner Bros.-Seven Arts
+1464,Platoon ,1986,Oliver Stone,50,Y,83,Orion
+1465,Fargo ,1996,Joel Coen,51, ,84,Gramercy Pics./Polygram
+1466,Duck Soup ,1933,Leo McCarey,52, ,85,Paramount
+1467,Mutiny on the Bounty ,1935,Frank Lloyd,53,Y,86,MGM
+1468,Frankenstein ,1931,James Whale,54, ,87,Universal
+1469,Easy Rider ,1969,Dennis Hopper,55, ,88,Columbia
+1470,Patton ,1970,Franklin J. Schaffner,56,Y,89,20th Century Fox
+1471,The Jazz Singer ,1927,Alan Crosland,57, ,90,Warner Bros.
+1476,Pulp Fiction ,1994,Quentin Tarantino,58, ,95,A Band Apart/Jersey/Miramax
+1478,Bringing Up Baby ,1938,Howard Hawks,59, ,97,RKO
+1479,Unforgiven ,1992,Clint Eastwood,60, ,98,Malpaso/Warner Bros.
+1480,Guess Who's Coming to Dinner ,1967,Stanley Kramer,61, ,99,Columbia
+1425,King Kong ,1933,Merian Cooper,62, ,43,RKO
+1459,Rocky ,1976,John G. Avildsen,63,Y,78,United Artists
+1430,Snow White and the Seven Dwarfs ,1937,NA,64, ,49,RKO/Walt Disney
