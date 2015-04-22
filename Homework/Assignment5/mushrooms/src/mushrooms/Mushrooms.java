@@ -1,24 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Ember Baker
+ * A program written based on the JRIP Rules provided by WEKA
  */
 package mushrooms;
 
 import java.util.Scanner;
 
-/**
- *
- * @author erb39405
- */
 public class Mushrooms {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in); 
-        
         
         int code;
         char odor;
@@ -33,11 +24,8 @@ public class Mushrooms {
         char stalkColorAboveRing;
 
         System.out.println("Welcome to the Mushroom Database");
-        code();
         
         while (code()== 1){
-        
-            
         
             System.out.println("Please enter the ODOR key > ");
             odor = in.next().charAt(0);
@@ -97,8 +85,7 @@ public class Mushrooms {
             }
             
             edible();
-            
-             
+               
         }
     }
     public static void poisonous (){
@@ -108,8 +95,10 @@ public class Mushrooms {
         System.out.println("Your mushroom is edible");
     }
     public static int code(){
+        Scanner in = new Scanner(System.in);
         int code;
-        System.out.println(" 1- Classify a mushroom 0- to exit > ");
+        System.out.println();
+        System.out.println("Press 1- to classify a mushroom 0 - to exit > ");
         code = in.nextInt(); 
         return code; 
     }
